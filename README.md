@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Akenji Faith</h2>
 
-### I'm a third year (Junior) Computer Engineering (Software) student and Data Science enthusiast 
-
+###
+Junior (third year) software engineering student and data science enthusiast
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akenji&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akenji&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -112,18 +112,6 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Akenji/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
 ###
