@@ -1,11 +1,17 @@
-<h2 align="left">Hi 👋! My name is Akenji Faith</h2>
+<h1 align="left">Hi 👋! My name is Akenji Faith</h2>
 
-### Aboout me
+### 🚀 Aboout me
 
- *Junior (third year) software engineering student and data science enthusiast*
- ---- 
+ #### CE Undergard @ UBuea | Data Science | artist🎨
+
+I'm a passionate data science enthusiast currently pursuing a degree in Computer Engineering (software). I love exploring the world of data, uncovering insights, and applying them to real-world problems. In my free time, I enjoy drawing, which allows me to express my creativity and bring my ideas to life. I believe that combining my analytical skills with artistic expression opens up exciting possibilities in both fields.
+
+🎯 I’m passionate about data storytelling <br>
+🧠 Love AHA moments when cleaning data and discovering patterns and insights, whatever reason the insights can be used like building predictive models
+
+
  
-### stats
+##  stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akenji&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akenji&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -15,9 +21,9 @@
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
----
 
-### Tools and Languages
+
+## Tools and Languages
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -58,9 +64,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div> 
----
 
-### Socials
+
+## Socials
 
 <div align="left">
   <a href="https://www.instagram.com/akenji_faith?igsh=eGkwZWUxOHI2dzMz" target="_blank">
@@ -80,6 +86,26 @@
 ###
 
 <br clear="both">
+
+----
+## 🌱 Currently Exploring
+- 🤖 Machine Learning (for health prediction + personalized experiences)
+- 📊 Advanced data visualizations and interactive dashboards
+- Open source
+
+📧 Email: akenjifaith1@gmail.com
+
+
+## ✨ Fun Facts
+- 🧩 I love puzzles
+- ✍️ I write and draw
+- 🔥 Data science club president at my faculty
+- 🪄 Secret power: Turning complex data into visuals that actually make sense
+
+## ⭐ From Akenji
+Thanks for stopping by! I’m always up for a collab, especially if it involves building something cool, visual, and meaningful ✨
+
+
 
 <!--<img src="https://raw.githubusercontent.com/Akenji/Akenji/output/snake.svg" alt="Snake animation" />
 
