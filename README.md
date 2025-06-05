@@ -2,7 +2,7 @@
 
 ### 🚀 Aboout me
 
- #### CE Undergard @ UBuea | Data Science | artist🎨
+ #### CE Undergard @ UBuea | Data Science Enthusiast | artist🎨
 
 I'm a passionate data science enthusiast currently pursuing a degree in Computer Engineering (software). I love exploring the world of data, uncovering insights, and applying them to real-world problems. In my free time, I enjoy drawing, which allows me to express my creativity and bring my ideas to life. I believe that combining my analytical skills with artistic expression opens up exciting possibilities in both fields.
 
