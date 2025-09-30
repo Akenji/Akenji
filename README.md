@@ -1,6 +1,7 @@
-<h1 align="left">Hi 👋! My name is Akenji Faith</h2>
+<h1 align="left">Hi 👋! My name is Akenji Faith</h2> 
+[Portfolio](https://akenji-portfolio.vercel.app/)
 
-### 🚀 Aboout me
+### 🚀 About me
 
  #### CE Undergard @ UBuea | Data Science Enthusiast | artist🎨
 
