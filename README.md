@@ -3,12 +3,20 @@
 
 ### 🚀 About me
 
- #### CE Undergard @ UBuea | Data Science Enthusiast | artist🎨
+ #### CE Undergard @ UBuea | Data Science and Research Enthusiast | artist🎨
 
 I'm a passionate data science enthusiast currently pursuing a degree in Computer Engineering (software). I love exploring the world of data, uncovering insights, and applying them to real-world problems. In my free time, I enjoy drawing, which allows me to express my creativity and bring my ideas to life. I believe that combining my analytical skills with artistic expression opens up exciting possibilities in both fields.
+I first learned about programming in 2021, when I was already in high school.🤯 I know!
+
+I immersed myself more into tech when I started my Computer Engineering major in the university of Buea.
+And my favorite coding language has been Python. I'm also conversant with JavaScript and, sometimes, C  🤯 Alo crazy, I know!
+
+I'm highly interested in  Machine Learning and also in Geometry Processing
+
+I'm currently the president of my Faculty's data science club.
 
 🎯 I’m passionate about data storytelling <br>
-🧠 Love AHA moments when cleaning data and discovering patterns and insights, whatever reason the insights can be used like building predictive models
+🧠 Love AHA moments when cleaning data and discovering patterns and insights. Basically, research!
 
 
  
@@ -90,7 +98,7 @@ I'm a passionate data science enthusiast currently pursuing a degree in Computer
 
 ----
 ## 🌱 Currently Exploring
-- 🤖 Machine Learning (for health prediction + personalized experiences)
+- 🤖 How to combine the field of Geometry, Computer vision, 3D research, and Machine Learning (for health prediction + personalized experiences)
 - 📊 Advanced data visualizations and interactive dashboards
 - Open source
 
@@ -100,7 +108,7 @@ I'm a passionate data science enthusiast currently pursuing a degree in Computer
 ## ✨ Fun Facts
 - 🧩 I love puzzles
 - ✍️ I write and draw
-- 🔥 Data science club president at my faculty
+- 🔥 I have a pet cat
 - 🪄 Secret power: Turning complex data into visuals that actually make sense
 
 ## ⭐ From Akenji
