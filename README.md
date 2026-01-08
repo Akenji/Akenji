@@ -1,22 +1,23 @@
 **[Portfolio](https://akenji-portfolio.vercel.app/)**
-<h1 align="left">Hi 👋! My name is Akenji Faith Sirri</h2> 
+<h1 align="left">Hi there 👋! My name is Akenji Faith Sirri</h2> 
 
-### 🚀 About me
+### About me
 
  #### CE Undergard @ UBuea | Data Science and Research Enthusiast | artist🎨
 
-I'm a passionate data science enthusiast currently pursuing a degree in Computer Engineering (software). I love exploring the world of data, uncovering insights, and applying them to real-world problems. In my free time, I enjoy drawing, which allows me to express my creativity and bring my ideas to life. I believe that combining my analytical skills with artistic expression opens up exciting possibilities in both fields.
+I'm a passionate data science enthusiast currently pursuing a degree in Computer Engineering (software). I love exploring the world of data, uncovering insights, and applying them to real-world problems. In my free time, I enjoy drawing (check out my Insta 😁), which allows me to express my creativity and bring my ideas to life. 
+
+
 I first learned about programming in 2021, when I was already in high school.🤯 I know!
 
-I immersed myself more into tech when I started my Computer Engineering major in the university of Buea.
-And my favorite coding language has been Python. I'm also conversant with JavaScript and, sometimes, C  🤯 Alo crazy, I know!
+I immersed myself more into tech when I started my Computer Engineering major at the University of Buea.
+And my favorite coding language has been Python. I'm also conversant with JavaScript and, sometimes, C  🤯 Also crazy, I know!
 
 I'm highly interested in  Machine Learning and also in Geometry Processing
 
 I'm currently the president of my Faculty's data science club.
 
-🎯 I’m passionate about data storytelling <br>
-🧠 Love AHA moments when cleaning data and discovering patterns and insights. Basically, research!
+ Love AHA moments when cleaning data and discovering patterns and insights. Basically, research!
 
 
  
@@ -98,18 +99,16 @@ I'm currently the president of my Faculty's data science club.
 
 ----
 ## 🌱 Currently Exploring
-- 🤖 How to combine the field of Geometry, Computer vision, 3D research, and Machine Learning (for health prediction + personalized experiences)
-- 📊 Advanced data visualizations and interactive dashboards
+-  How to combine the field of Geometry (math), Computer vision, research, and Machine Learning (In health sectors, especially)
 - Open source
 
 📧 Email: akenjifaith1@gmail.com
 
 
 ## ✨ Fun Facts
-- 🧩 I love puzzles
-- ✍️ I write and draw
-- 🔥 I have a pet cat
-- 🪄 Secret power: Turning complex data into visuals that actually make sense
+🥰 I have a pet cat
+
+🪄 Secret power: Being able to fit an infinite number of cats in a box 😄🐈.....oh, and Code override
 
 ## ⭐ From Akenji
 Thanks for stopping by! I’m always up for a collab, especially if it involves building something cool, visual, and meaningful ✨
