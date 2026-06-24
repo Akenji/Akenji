@@ -8,7 +8,7 @@
 I'm a passionate data science enthusiast currently pursuing a degree in Computer Engineering (software). I love exploring the world of data, uncovering insights, and applying them to real-world problems. In my free time, I enjoy drawing (check out my Insta 😁), which allows me to express my creativity and bring my ideas to life. 
 
 
-I first learned about programming in 2021, when I was already in high school.🤯 I know!
+<!-- I first learned about programming in 2021, when I was already in high school.🤯 I know!
 
 I immersed myself more into tech when I started my Computer Engineering major at the University of Buea.
 And my favorite coding language has been Python. I'm also conversant with JavaScript and, sometimes, C  🤯 Also crazy, I know!
@@ -18,10 +18,9 @@ I'm highly interested in  Machine Learning and also in Geometry Processing
 I'm currently the president of my Faculty's data science club.
 
  Love AHA moments when cleaning data and discovering patterns and insights. Basically, research!
-
-
  
-<!--##  stats
+ 
+<!-- ##  stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akenji&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akenji&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
